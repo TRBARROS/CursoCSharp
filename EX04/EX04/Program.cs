@@ -15,11 +15,11 @@ namespace EX04
             Console.WriteLine("Digite o nome do primeiro funcionario:");
             f1.nome = Console.ReadLine();
             Console.WriteLine("Digite o salario do primeiro funcionario");
-            f1.salario = Convert.ToDouble(Console.ReadLine());
+            f1.salario = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("Digite o nome do segundo funcionario:");
             f2.nome = Console.ReadLine();
             Console.WriteLine("Digite o salario do segundo funcionario");
-            f2.salario = Convert.ToDouble(Console.ReadLine());
+            f2.salario = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             mediaSalarial = (f1.salario + f2.salario) / 2;
 
