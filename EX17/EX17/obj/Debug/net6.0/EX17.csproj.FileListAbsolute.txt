@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\bin\Debug\net6.0\EX17.exe
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\bin\Debug\net6.0\EX17.deps.json
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\bin\Debug\net6.0\EX17.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\bin\Debug\net6.0\EX17.dll
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\bin\Debug\net6.0\EX17.pdb
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.dll
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\refint\EX17.dll
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.pdb
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\EX17.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX17\EX17\obj\Debug\net6.0\ref\EX17.dll
