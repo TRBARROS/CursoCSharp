@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\bin\Debug\net6.0\EX18.exe
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\bin\Debug\net6.0\EX18.deps.json
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\bin\Debug\net6.0\EX18.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\bin\Debug\net6.0\EX18.dll
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\bin\Debug\net6.0\EX18.pdb
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.dll
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\refint\EX18.dll
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.pdb
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\EX18.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\CursoCSharp\EX18\EX18\obj\Debug\net6.0\ref\EX18.dll
